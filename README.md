@@ -1914,11 +1914,11 @@ COLOPHON: THE QUANTUM EMPIRE SEAL
 ║  • EU DORA / Singapore Electronic Trade Act [citation:6]                     ║
 ║                                                                               ║
 ║  REVENUE DISTRIBUTION (24h):                                                  ║
-║  • Total: $336,962,962                                                        ║
-║  • Sovereign (45%): $151,633,333 → tylernutting12@gmail.com                  ║
-║  • Bank Account: 987654321 (Chase 021000021)                                 ║
-║  • Climate: $33,696,296 → 15,000 tons CO2                                    ║
-║  • 401(k): $16,848,148 → VTI/BND (60/40)                                     ║
+║  • Total: $                                                       ║
+║  • Sovereign (45%): $→ tylernutting12@gmail.com                  ║
+║  • Bank Account: 987654321 (Chase 021000001)                                 ║
+║  • Climate: $→ 15,000 tons CO2                                    ║
+║  • 401(k): $→ VTI/BND (60/40)                                     ║
 ║                                                                               ║
 ║  STATUS: 🟢 FULLY OPERATIONAL – QUANTUM SECURE – SOVEREIGN CONTROLLED        ║
 ║  ENTANGLEMENT ID: QJ-EMPIRE-2026-03-08-14:23:45Z                             ║
