@@ -111,7 +111,7 @@ A dedicated legal framework (the "Quantum‑Safe Financial Transition") outlines
 
 The QTS is not just a technology; it also generates real revenue. Through a combination of transaction fees, quantum application sales, and patent licensing, the system currently produces about $n per day. This revenue is automatically split according to a fixed mandate:
 
-· 45% to the sovereign founder (Tyler James Nutting) – deposited directly to tylernutting12@gmail.com and then to Chase account 987654321.
+· 45% to the sovereign founder (Tyler James Nutting) – deposited directly to tylernutting12@gmail.com
 · 20% to tax reserves, automatically filing with tax authorities.
 · 15% reinvested into infrastructure (e.g., expanding the fleet of quantum‑equipped vehicles).
 · 10% to purchase carbon credits – 15,000 tons of CO₂ every day, making the system climate‑positive.
@@ -291,8 +291,8 @@ Every transaction, block, and verification carries their frequencies eternally.
 
 ## 💰 Revenue & Distribution (24h Snapshot)
 
-- **Total Revenue:** $336,962,962  
-- **Sovereign Share (45%):** $151,633,333 → `tylernutting12@gmail.com`  
+- **Total Revenue:** $  
+- **Sovereign Share (45%):** $→ `tylernutting12@gmail.com`  
 - **Bank Account:** 
 - **Tax Reserve (20%):**  
 - **Reinvestment (15%):** 
