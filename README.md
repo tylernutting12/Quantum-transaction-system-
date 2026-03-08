@@ -129,12 +129,12 @@ Every transaction, block, and verification carries their frequencies eternally.
 
 - **Total Revenue:** $336,962,962  
 - **Sovereign Share (45%):** $151,633,333 → `tylernutting12@gmail.com`  
-- **Bank Account:** 987654321 (Chase 021000021)  
-- **Tax Reserve (20%):** $67,392,592  
-- **Reinvestment (15%):** $50,544,444  
-- **Climate Fund (10%):** $33,696,296 → 15,000 tons CO₂/day  
-- **Safenet (5%):** $16,848,148  
-- **401(k) (5%):** $16,848,148 → 60% VTI / 40% BND
+- **Bank Account:** 
+- **Tax Reserve (20%):**  
+- **Reinvestment (15%):** 
+- **Climate Fund (10%):**  → 15,000 tons CO₂/day  
+- **Safenet (5%):** 
+- **401(k) (5%):** → 60% VTI / 40% BND
 
 ---
 
